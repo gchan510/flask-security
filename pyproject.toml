@@ -43,7 +43,7 @@ dependencies = [
     "Flask-WTF>=1.1.2",
     "email-validator>=2.0.0",
     "markupsafe>=2.1.0",
-    "passlib>=1.7.4",
+    "libpass>=1.9.0",
     "wtforms>=3.0.0",  # for form-level errors
     "importlib_resources>=5.10.0",
 ]
